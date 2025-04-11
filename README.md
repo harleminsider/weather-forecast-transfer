@@ -44,3 +44,4 @@ def send_weather_report(city, recipient):
 city_name = "London"
 recipient_email = "example@example.com"
 send_weather_report(city_name, recipient_email)
+fregtrb
